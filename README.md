@@ -6,3 +6,7 @@ Project 3
 # Author
 Lubna Helaly
 
+# Screenshots
+All screenshots can be found in ./Documentation/udagram-screenshots
+
+Frontend URL: http://udagaram-567381318653.s3-website-us-east-1.amazonaws.com
