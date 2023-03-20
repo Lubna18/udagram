@@ -21,3 +21,5 @@ Request manual approval to initiate the next step
 Build the docker image with aws-cli , eb and node to execute two steps
 - Deploy the frontend to the S3 bucket
 - Deploy the backend to the Elastic bean stack
+
+![alt text](./pipeline.png)
